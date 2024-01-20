@@ -9,6 +9,7 @@ Każda zmienna musi mieć określony typ, np. int, albo String.
 
 Jeżeli deklarację zmiennej poprzedzimy słowem final, to tzn ze jest niezmienna
 obiekty są wywoływane przez operator new i służą do tworzenia nowych obiektów.
+w klasie moga znajdowac sie metody konstruktory i pola
 
 Jeśli w klasie zdefiniowano chociaż jeden … to kompilator nie wygeneruje dla nas … domyślnego.
 
